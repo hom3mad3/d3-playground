@@ -1,1 +1,1 @@
-gulp is cool, so is d3!
+a simple setup for using d3 using gulp, sass and traceur
